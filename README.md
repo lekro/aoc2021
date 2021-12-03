@@ -2,7 +2,7 @@
 
 Lekro's solutions in C for [aoc2021](https://adventofcode.com/).
 
-Type `make` to compile all files. Input is accepted from `stdin` for all
+Type `make` to compile all programs. Input is accepted from `stdin` for all
 programs in this collection, e.g. you may run a program via
 
 ```
@@ -14,4 +14,10 @@ lines of input followed by an EOF (`^D`).
 
 A solution for each puzzle may be posted at least 24 hours after it
 opened (with no guarantees on timeliness).
+
+## A mapping from puzzles to solutions
+
+- Day 1: `depth.c`.
+- Day 2: `updown.c` (part 1) and `updown2.c` (part 2).
+- Day 3: `power.c`.
 
