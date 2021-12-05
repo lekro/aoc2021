@@ -20,4 +20,5 @@ opened (with no guarantees on timeliness).
 - Day 1: `depth.c`.
 - Day 2: `updown.c` (part 1) and `updown2.c` (part 2).
 - Day 3: `power.c`.
-
+- Day 4: `squid.c`.
+- Day 5: `vents.c`. `-DPART2=0` calculates part 1 (lazy!)
