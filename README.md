@@ -22,3 +22,4 @@ opened (with no guarantees on timeliness).
 - Day 3: `power.c`.
 - Day 4: `squid.c`.
 - Day 5: `vents.c`. `-DPART2=0` calculates part 1 (lazy!)
+- Day 6: `lanternfish.c`. Change the `NDAYS` macro for part 1 (also lazy!)
