@@ -24,3 +24,5 @@ opened (with no guarantees on timeliness).
 - Day 5: `vents.c`. `-DPART2=0` calculates part 1 (lazy!)
 - Day 6: `lanternfish.c`. Change the `NDAYS` macro for part 1 (also lazy!)
 - Day 7: `crabs.c`.
+- Day 8: `digits.c`.
+- Day 9: `tubes.c`.
