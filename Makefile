@@ -1,4 +1,4 @@
-SOURCES = depth.c hello.c updown.c updown2.c power.c squid.c vents.c lanternfish.c crabs.c digits.c tubes.c
+SOURCES = depth.c hello.c updown.c updown2.c power.c squid.c vents.c lanternfish.c crabs.c digits.c tubes.c nav.c
 CC = gcc
 CFLAGS = -g -Og
 LDFLAGS = -lm
