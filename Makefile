@@ -1,6 +1,6 @@
-SOURCES = depth.c hello.c updown.c updown2.c power.c squid.c vents.c lanternfish.c crabs.c digits.c tubes.c nav.c
+SOURCES = depth.c hello.c updown.c updown2.c power.c squid.c vents.c lanternfish.c crabs.c digits.c tubes.c nav.c octopus.c
 CC = gcc
-CFLAGS = -g -Og
+CFLAGS = -g -Og -fstack-protector
 LDFLAGS = -lm
 TARGETS = $(SOURCES:.c=)
 
