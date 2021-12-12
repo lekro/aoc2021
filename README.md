@@ -28,3 +28,4 @@ opened (with no guarantees on timeliness).
 - Day 9: `tubes.c`.
 - Day 10: `nav.c`.
 - Day 11: `octopus.c`.
+- Day 12: `caves.c`.
