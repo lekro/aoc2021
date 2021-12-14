@@ -30,3 +30,4 @@ opened (with no guarantees on timeliness).
 - Day 11: `octopus.c`.
 - Day 12: `caves.c`.
 - Day 13: `origami.c`.
+- Day 14: `polymer.c`. Run part 1 with `./polymer 10` and part 2 with `./polymer 40`.
