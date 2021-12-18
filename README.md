@@ -33,3 +33,5 @@ opened (with no guarantees on timeliness).
 - Day 14: `polymer.c`. Run part 1 with `./polymer 10` and part 2 with `./polymer 40`.
 - Day 15: `chiton.c`. Run part 1 with `./chiton 1` and part 2 with `./chiton 5`.
 - Day 16: `packet.c`.
+- Day 17: `trick.c`. This one accepts either command line arguments or stdin.
+- Day 18: `snailfish.c. Use `-DDEBUG` to follow the explode/split operations.
