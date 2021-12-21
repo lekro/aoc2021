@@ -37,3 +37,4 @@ opened (with no guarantees on timeliness).
 - Day 18: `snailfish.c`. Use `-DDEBUG` to follow the explode/split operations.
 - Day 19: `scanner.c`.
 - Day 20: `trench.c`.
+- Day 21: `dice.c`. Part 2 is a cool problem with cool solution and insights.

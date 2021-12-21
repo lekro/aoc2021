@@ -1,4 +1,4 @@
-SOURCES = depth.c hello.c updown.c updown2.c power.c squid.c vents.c lanternfish.c crabs.c digits.c tubes.c nav.c octopus.c caves.c origami.c polymer.c chiton.c packet.c trick.c snailfish.c scanner.c trench.c
+SOURCES = depth.c hello.c updown.c updown2.c power.c squid.c vents.c lanternfish.c crabs.c digits.c tubes.c nav.c octopus.c caves.c origami.c polymer.c chiton.c packet.c trick.c snailfish.c scanner.c trench.c dice.c
 CC = gcc
 CFLAGS = -g -Og -fstack-protector #-DDEBUG
 LDFLAGS = -lm
