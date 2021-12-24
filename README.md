@@ -39,3 +39,4 @@ opened (with no guarantees on timeliness).
 - Day 20: `trench.c`.
 - Day 21: `dice.c`. Part 2 is a cool problem with cool solution and insights.
 - Day 22: `reactor.c`. Algorithm is pretty cool. `-DPART2=0` calculates part 1.
+- Day 23: `amphipod.c`.
